@@ -34,6 +34,9 @@ header nav .nav-left-section button{
     width: 30px;
     border-radius: 50%;
 }
+header nav .nav-left-section button:hover{
+    cursor: pointer;
+}
 header nav .nav-left-section .btn-on{
     background-color: #202124;
     border: 1px solid #bdc1c6;
