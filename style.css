@@ -34,9 +34,7 @@ header nav .nav-left-section button{
     width: 30px;
     border-radius: 50%;
 }
-header nav .nav-left-section button:hover{
-    cursor: pointer;
-}
+
 header nav .nav-left-section .btn-on{
     background-color: #202124;
     border: 1px solid #bdc1c6;
@@ -44,6 +42,12 @@ header nav .nav-left-section .btn-on{
 header nav .nav-left-section .btn-onff{
     background-color: #bdc1c6;
     border: 1px solid #202124;
+}
+header nav .nav-left-section .btn-on:hover{
+    cursor: pointer;
+}
+header nav .nav-left-section .btn-onff:hover{
+    cursor: pointer;
 }
 header nav .nav-right-section{
     width: 250px;
